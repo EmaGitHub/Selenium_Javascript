@@ -1,0 +1,24 @@
+{
+  "name": "selenium_javascript",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmaGitHub/Selenium_Javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmaGitHub/Selenium_Javascript/issues"
+  },
+  "homepage": "https://github.com/EmaGitHub/Selenium_Javascript#readme",
+  "dependencies": {
+    "chromedriver": "^112.0.0",
+    "geckodriver": "^3.2.0",
+    "selenium-webdriver": "^4.8.2"
+  }
+}
